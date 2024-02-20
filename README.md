@@ -34,7 +34,3 @@ This project uses Selenium and undetected_chromedriver to scrape product details
    python <file_name>.py
    ```
    Note: Replace `<file_name>` with the name of your Python file.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
