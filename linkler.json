@@ -1,0 +1,11 @@
+{
+  "links": [
+    "http://example.com/page1",
+    "http://example.com/page2"
+  ]
+, "accounts": [
+	["nick1", "password1"],
+ ["nick2", "password2"],
+ ["nick3", "password3"],
+ ["nick4", "password4"]]
+}
